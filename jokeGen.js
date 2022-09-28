@@ -12,6 +12,6 @@ async function getJock() {
 		},
 	});
 	const jokeObj = await jokeData.json();
-	jokeDiv.innerHTML = jokeObj.joke;
+	jokeDiv.textContent = jokeObj.joke;
 	console.log(jokeData);
 }
