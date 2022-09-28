@@ -1,4 +1,4 @@
-Random Dad Generator created by Juanye inspired by a Linked user.
+Random Dad Generator created by Juanye inspired by a LinkedIn user.
 
 Randomly generate a Dad joke using the javascript button.
 
